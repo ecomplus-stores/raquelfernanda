@@ -17,7 +17,7 @@
     "title": "Contatos",
     "phone_wpp": true,
     "socials": true,
-    "email": true,
+    "email": false,
     "address": true
   },
   "stamps": [
@@ -29,8 +29,8 @@
   "payment_methods": {
     "bb": true,
     "visa": true,
-    "boleto": true,
-    "aura": false,
+    "boleto": false,
+    "aura": true,
     "banrisul": false,
     "elo": true,
     "hipercard": false,
@@ -39,7 +39,10 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
+    "hiper": true,
+    "diners": true,
     "mais": false,
+    "pix": true,
     "itau": true
   },
   "credits": "Todos os direitos reservados à Raquel Fernanda Moda Feminina."
