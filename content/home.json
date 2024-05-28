@@ -9,7 +9,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/meu-jardim.jpg"
+          "img": "/img/uploads/meu-jardim.jpg",
+          "mobile_img": "/img/uploads/design-sem-nome-31-.jpg"
         }
       ],
       "full_width": true
