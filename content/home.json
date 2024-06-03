@@ -11,6 +11,18 @@
           "end": "",
           "img": "/img/uploads/banner-1-desktop.jpg",
           "mobile_img": "/img/uploads/banner-1-mobile.png.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-2-desktop.jpg",
+          "mobile_img": "/img/uploads/banner-2-mobile.png.png.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-3-desktop.jpg",
+          "mobile_img": "/img/uploads/banner-3-mobile.png.png.png"
         }
       ],
       "full_width": true
