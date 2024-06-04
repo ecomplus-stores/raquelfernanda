@@ -10,19 +10,19 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-1-desktop.jpg",
-          "mobile_img": "/img/uploads/banner-1-mobile.png.png"
+          "mobile_img": "/img/uploads/banner-1-mobile.jpg"
         },
         {
           "start": "2024-06-03T18:29:54.962Z",
           "end": "",
           "img": "/img/uploads/banner-2-desktop.jpg",
-          "mobile_img": "/img/uploads/banner-2-mobile.png.png.png"
+          "mobile_img": "/img/uploads/banner-2-mobile.jpg"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-3-desktop.jpg",
-          "mobile_img": "/img/uploads/banner-3-mobile.png.png.png"
+          "mobile_img": "/img/uploads/banner-3-mobile.jpg"
         }
       ],
       "full_width": true
