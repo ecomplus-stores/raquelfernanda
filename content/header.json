@@ -14,7 +14,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/loja?Loja",
+      "/colecao-singularidade?Coleção Singularidade",
+      "/colecao-meu-jardim?Coleção Meu Jardim"
+    ],
     "random": 5,
     "full_width": false
   },
