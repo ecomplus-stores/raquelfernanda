@@ -9,22 +9,15 @@
         {
           "start": "2024-06-28T12:48:45.377Z",
           "end": "",
-          "img": "/img/uploads/banner-1-desktop-2-.jpg",
-          "link": "https://raquelfernanda.com.br/colecao-singularidade",
-          "mobile_img": "/img/uploads/banner-2-mobile-1-.jpg"
-        },
-        {
-          "start": "2024-06-03T18:29:54.962Z",
-          "end": "",
-          "img": "/img/uploads/banner-2-desktop-.jpg",
-          "mobile_img": "/img/uploads/banner-1-mobile-1-.jpg",
-          "link": "https://raquelfernanda.com.br/loja"
+          "img": "/img/uploads/prancheta-1.jpg",
+          "link": "https://raquelfernanda.com.br/colecao-serenity",
+          "mobile_img": "/img/uploads/prancheta-1-1-.jpg"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-3-desktop.jpg",
-          "mobile_img": "/img/uploads/banner-3-mobile.jpg"
+          "img": "/img/uploads/prancheta-2.jpg",
+          "mobile_img": "/img/uploads/prancheta-2-1-.jpg"
         }
       ],
       "full_width": true
