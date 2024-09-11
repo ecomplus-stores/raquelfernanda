@@ -16,10 +16,9 @@
   "categories_list": {
     "featured": [
       "/loja?Loja",
-      "/colecao-singularidade?Coleção Singularidade",
-      "/colecao-meu-jardim?Coleção Meu Jardim"
+      "/colecao-serenity?Coleção Serenity"
     ],
-    "random": 5,
+    "random": 0,
     "full_width": false
   },
   "search_input": true
