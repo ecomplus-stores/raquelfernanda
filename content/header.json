@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Seja uma revendedora RF. Venha fazer parte da Família.",
-    "link": "https://typebot.co/raquel-fernanda"
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -16,7 +16,7 @@
   "categories_list": {
     "featured": [
       "/loja?Loja",
-      "/colecao-serenity?Coleção Serenity"
+      "/colecao-unique?Coleção Unique"
     ],
     "random": 0,
     "full_width": false
