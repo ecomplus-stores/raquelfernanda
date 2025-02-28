@@ -11,6 +11,12 @@
           "end": "",
           "img": "/img/uploads/desktop-1.jpg",
           "mobile_img": "/img/uploads/mobile-1.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktop-2.jpg",
+          "mobile_img": "/img/uploads/mobile-2.jpg"
         }
       ],
       "full_width": true
