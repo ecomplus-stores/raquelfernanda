@@ -9,20 +9,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desktop-1.jpg",
-          "mobile_img": "/img/uploads/mobile-1.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktop-2.jpg",
-          "mobile_img": "/img/uploads/mobile-2.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desktop-3.jpg",
-          "mobile_img": "/img/uploads/mobile-3.jpg"
+          "img": "/img/uploads/desktop-1-copiar.jpg",
+          "mobile_img": "/img/uploads/mobile-1-copiar.jpg"
         }
       ],
       "full_width": true
