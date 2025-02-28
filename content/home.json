@@ -19,6 +19,13 @@
           "img": "/img/uploads/desktop-2.jpg",
           "link": "https://raquelfernanda.com.br/colecao-conexoes",
           "mobile_img": "/img/uploads/mobile-2.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desktop-3.jpg",
+          "link": "https://raquelfernanda.com.br/colecao-conexoes",
+          "mobile_img": "/img/uploads/mobile-3.jpg"
         }
       ],
       "full_width": true
