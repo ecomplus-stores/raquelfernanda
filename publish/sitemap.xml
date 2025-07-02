@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://www.raquelfernanda.com.br/serena</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.raquelfernanda.com.br/colecao-serena-parte-ii</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.raquelfernanda.com.br/vestido-renata</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -725,18 +737,6 @@
       <loc>https://www.raquelfernanda.com.br/conjunto-jussara-terra-cota</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.raquelfernanda.com.br/serena</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.raquelfernanda.com.br/colecao-serena-parte-ii</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
