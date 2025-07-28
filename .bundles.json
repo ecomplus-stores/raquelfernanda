@@ -1,6 +1,6 @@
 {
   "assetsByChunkName": {
-    "vendors~app-account~app-confirmation~app-order": "chunk.a6090fecd4939419c3a8.js",
+    "vendors~app-account~app-confirmation~app-order": "chunk.1edfa6486c465cb47cd1.js",
     "vendors~app-account~app-checkout": "chunk.affbe485e6e291a62e64.js",
     "vendors~app-cart~app-checkout": "chunk.8776f8cb79e4934213d5.js",
     "admin": [
@@ -11,14 +11,14 @@
     "app-checkout": "chunk.12e6e01d8d4a358eac10.js",
     "app-confirmation": "chunk.a90a210e10f8e5a75caa.js",
     "checkout": [
-      "checkout.1168792fd64e7824ce80.js",
-      "checkout.1168792fd64e7824ce80.js.map"
+      "checkout.7612d91155ea5ecf9ecb.js",
+      "checkout.7612d91155ea5ecf9ecb.js.map"
     ],
     "storefront": [
       "storefront.03389cc99e1aaf0d1987.css",
-      "storefront.fe62bc2e7e3c533b2db0.js",
+      "storefront.c392ccecf4ba2902a247.js",
       "storefront.03389cc99e1aaf0d1987.css.map",
-      "storefront.fe62bc2e7e3c533b2db0.js.map"
+      "storefront.c392ccecf4ba2902a247.js.map"
     ],
     "vendors~app-cart": "chunk.d32bf7e48d3bcc0e42a8.js",
     "vendors~app-order": "chunk.13b0960602442ab6c375.js"
