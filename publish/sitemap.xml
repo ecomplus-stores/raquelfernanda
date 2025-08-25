@@ -764,6 +764,30 @@
     </url>
   
     <url>
+      <loc>https://www.raquelfernanda.com.br/serena</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.raquelfernanda.com.br/colecao-serena-parte-ii</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.raquelfernanda.com.br/colecao-reflexos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.raquelfernanda.com.br/raquel-fernanda</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.raquelfernanda.com.br/colecao-meu-jardim</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -806,43 +830,19 @@
     </url>
   
     <url>
-      <loc>https://www.raquelfernanda.com.br/serena</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.raquelfernanda.com.br/colecao-serena-parte-ii</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.raquelfernanda.com.br/colecao-reflexos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.raquelfernanda.com.br/raquel-fernanda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.raquelfernanda.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.raquelfernanda.com.br/pages/entrega</loc>
+      <loc>https://www.raquelfernanda.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.raquelfernanda.com.br/pages/faq</loc>
+      <loc>https://www.raquelfernanda.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
