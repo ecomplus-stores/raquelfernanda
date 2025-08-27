@@ -32,6 +32,19 @@
           "img": "/img/uploads/inserir-um-titulo.jpg"
         }
       ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/inserir-um-titulo-1-.jpg",
+          "mobile_img": "/img/uploads/banners-mobile-2-.jpg"
+        }
+      ]
     }
   ]
 }
