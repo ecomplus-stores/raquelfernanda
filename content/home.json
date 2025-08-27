@@ -3,32 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 5000,
-      "slides": [
-        {
-          "start": "2025-04-29T17:09:48.979Z",
-          "end": "",
-          "img": "/img/uploads/1.jpg",
-          "mobile_img": "/img/uploads/1.webp",
-          "link": "https://raquelfernanda.com.br/colecao-serena-parte-ii"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatssappp121411.jpg",
-          "mobile_img": "/img/uploads/21123aasd.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/fretegratiswhatsapp.jpg",
-          "mobile_img": "/img/uploads/fretegratismoblie.webp"
-        }
-      ],
-      "full_width": true
-    },
-    {
       "type": "info-bar",
       "enabled": false
     },
@@ -45,6 +19,19 @@
       "shuffle": true,
       "title": "OS MAIS VENDIDOS DA NOSSA LOJA",
       "sort": "sales"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/banners-mobile.jpg",
+          "img": "/img/uploads/inserir-um-titulo.jpg"
+        }
+      ]
     }
   ]
 }
