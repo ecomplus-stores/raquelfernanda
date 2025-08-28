@@ -11,19 +11,22 @@
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banners-mobile.jpg",
-          "img": "/img/uploads/inserir-um-titulo.jpg"
+          "img": "/img/uploads/inserir-um-titulo.jpg",
+          "alt": ""
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/inserir-um-titulo-1-.jpg",
-          "mobile_img": "/img/uploads/banners-mobile-2-.jpg"
+          "mobile_img": "/img/uploads/banners-mobile-2-.jpg",
+          "alt": ""
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/inserir-um-titulo-2-.jpg",
-          "mobile_img": "/img/uploads/banners-mobile-3-.jpg"
+          "mobile_img": "/img/uploads/banners-mobile-3-.jpg",
+          "alt": ""
         }
       ]
     },
