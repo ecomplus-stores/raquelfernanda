@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a27eb1e8427c0f94dd92ae78d1731e3c.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.5851a33001dcff32f71336f9e79b297b.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.9a91f0e3892bc789a1d6f219eb3b0736.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.0d8f0fdfeeb3228379680dfed4e63f37.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.c5958f06543dbe5512132616b04d3d1e.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Raquel Fernanda Moda Feminina",
+  "short_name": "raquel-fernanda",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Raquel Fernanda é uma referência no segmento de moda evangélica desde sua fundação em 2007. Com um compromisso inabalável com a elegância e a modéstia, a marca surgiu da paixão por oferecer roupas que valorizam a beleza e a dignidade da mulher cristã, sem abrir mão do estilo e da modernidade.\n\nAo longo dos anos, Raquel Fernanda consolidou-se como um sinônimo de qualidade e sofisticação, destacando-se pela cuidadosa seleção de tecidos, pelo acabamento impecável e pelo design exclusivo de suas peças. Cada coleção é criada com o intuito de proporcionar conforto e confiança, permitindo que nossas clientes expressem sua fé através de uma moda refinada e contemporânea.",
+  "background_color": "#ffffff",
+  "theme_color": "#313131"
+}
